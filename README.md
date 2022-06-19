@@ -1,4 +1,4 @@
-# PONG-pygame
+# PONG-pygame : pong game in python
 Hello, this is a pygame-based PONG clone.
 
 Please download pygame [**HERE**](https://www.pygame.org/download.shtml) first.
