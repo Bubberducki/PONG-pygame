@@ -167,9 +167,9 @@ def main():
             reset(ball,player1,player2)
 
         win_text = ""
-        if score_p1 >= 5:
+        if score_p1 >= 10:
             win_text = "P1 WINS !"
-        if score_p2 >= 5:
+        if score_p2 >= 10:
             win_text = "P2 WINS !"
 
         if win_text != "":
