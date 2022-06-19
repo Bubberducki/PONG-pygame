@@ -7,4 +7,4 @@ Make sure the Assets folder is on the same directory with main.py.
 
 Player 1(left) control : W / S
 
-Player 2(down) control : UP /DOWN
+Player 2(right) control : UP /DOWN
